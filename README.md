@@ -34,7 +34,7 @@ Aplicação usando React Native e Lottie for React Native.
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Esta é a única tela, onde exibe uma animação por meio da biblioteca Lottie.
 
 ## Desenvolvimento
