@@ -1,60 +1,64 @@
-# React Native - Lottie
+<h1 align="center">
+    <img src="/.github/assets/logo.svg"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/react-native-lottie/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/react-native-lottie.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/react-native-lottie.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/react-native-lottie.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/react-native-lottie.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/react-native-lottie.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/react-native-lottie.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  React Native - Lottie
+</h3>
 
-Aplicação usando React Native e Lottie for React Native.
+<p align="center">
+  :video_camera: Application using React Native and Lottie for React Native
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/react-native-lottie.svg?color=00A83A">
 
-- [Capturas de Tela](#capturas-de-tela)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/react-native-lottie.svg?color=00A83A">
 
-  - [Principal](#principal)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+<p align="center">
+  <a href="#iphone-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+## :iphone: Demo
 
-  - [Execução do Projeto](#execução-do-projeto)
+![Demo](/.github/assets/demo.png)
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+## :wrench: Install and run
 
-  - [Bibliotecas](#bibliotecas)
+Open terminal:
 
-## Capturas de Tela
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/react-native-lottie
 
-### Principal
+# Entry in folder
+cd react-native-lottie
 
-![Main](/.github/assets/main.png)
-Esta é a única tela, onde exibe uma animação por meio da biblioteca Lottie.
+# Install deps with npm or yarn
+npm install | yarn
 
-## Desenvolvimento
+# Launch the app on android with react-native or yarn
+react-native run-android | yarn android
 
-### Configuração do Ambiente
+# Launch the app on ios with react-native or yarn
+react-native run-ios | yarn ios
+```
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+## :memo: License
 
-### Instalação do Projeto
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+---
 
-### Execução do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md) e siga `Execução de Projeto para Desenvolvimento`.
-
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [Lottie for React Native](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/lottie-react-native.md)
-
-- [react-native-cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
